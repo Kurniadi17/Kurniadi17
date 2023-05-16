@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Go, Javascript**
 
-- 👯 I’m looking to collaborate on **learn many things about tech**
+- 👯 I’m looking to collaborate on **any tech related**
 
-- 🤝 I’m looking for help with **friends that I can rely on**
+- 🤝 I’m looking for help with **friends / senior that I can rely on**
 
 - 💬 Ask me about **React**
 
