@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurniadi</h1>
-<h3 align="center">A passionate Software Developer from Indonesia</h3>
+<h3 align="center">A passionate Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurniadi17&label=Profile%20views&color=0e75b6&style=flat" alt="kurniadi17" /> </p>
@@ -55,3 +55,5 @@
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurniadi17&layout=compact)](https://github.com/Kurniadi17/github-readme-stats)
+<br/>
+<p align="left"> Checkout My Portofolio Website: "In Progress 😆"</p>
