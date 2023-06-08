@@ -56,4 +56,4 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurniadi17&layout=compact)](https://github.com/Kurniadi17/github-readme-stats)
 <br/>
-<p align="left"> Checkout My Portofolio Website: "In Progress 😆"</p>
+<p align="left"> Checkout My Portofolio [Website](https://kurniadichua.netlify.app/)!</p>
