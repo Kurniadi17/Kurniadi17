@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurniadi17&label=Profile%20views&color=0e75b6&style=flat" alt="kurniadi17" /> </p>
 
-- 🔭 I’m currently working on **Michegan Website**
+- 🔭 I’m currently working on **ISYS PROJECT**
 
 - 🌱 I’m currently learning **Go, Javascript**
 
