@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurniadi17&label=Profile%20views&color=0e75b6&style=flat" alt="kurniadi17" /> </p>
 
-- 🔭 I’m currently working on **ISYS PROJECT**
+- 🔭 I’m currently working on **Front-End Project**
 
 - 🌱 I’m currently learning **Go, Javascript**
 
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **friends / senior that I can rely on**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Next, HTML, CSS, JS**
 
 - 📫 Reach me by email **kurniadikurniadi1@gmail.com**
 
