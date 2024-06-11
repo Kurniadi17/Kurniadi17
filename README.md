@@ -51,9 +51,9 @@
 </a> 
 </p>
 
-// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurniadi17&theme=algolia)](https://github.com/Kurniadi17/github-readme-stats)
-// <br/>
-// <br/>
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurniadi17&theme=algolia)](https://github.com/Kurniadi17/github-readme-stats)
+ <br/>
+ <br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurniadi17&layout=compact)](https://github.com/Kurniadi17/github-readme-stats)
 <br/>
 <p align="left"> Checkout My Portofolio Website: https://kurniadichua.netlify.app/</p>
